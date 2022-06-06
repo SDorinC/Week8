@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#firstDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    margin-top: 50px;
+}
+
+#selectionForm {
+    width: 200px;
+    height: 50px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: darkkhaki;
+    text-align: center;
+    font-size: 20px;
+    background-color: darkkhaki;
+}
+
+#bttn {
+    width: 200px;
+    height: 50px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: darkkhaki;
+    text-align: center;
+    font-size: 20px;
+    background-color: darkkhaki;
+}
+
+#secondDiv {
+    width: 1000px;
+    height: 800px;
+    border-style: outset;
+    border-width: 10px;
+    border-color: darkkhaki;
+    margin-top: 30px;
+    align-self: center;
+}
+
+#image{
+    width: 1000px;
+    height: 800px;
+}
